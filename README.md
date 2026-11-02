@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Xin.
 
-<!--
-**xwen111/xwen111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AIGC creator. Somewhere between engineering and art.
 
-Here are some ideas to get you started:
+Making fun things with AIGC — projects, workflows, and skills.
+Sharing what I've actually tried and used.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Think different. Build in public. Stay curious.
+
+<details>
+<summary>中文</summary>
+
+AIGC 创作者。在工程与艺术之间，折腾一些有趣的 AIGC 项目、工作流和 Skills。
+分享自己真正跑过、用过的东西。
+
+保持好奇，拥抱 AI，边做边分享。
+
+</details>
