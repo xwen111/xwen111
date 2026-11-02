@@ -1,4 +1,4 @@
-# Hey, I'm Star.
+# Twinkle Twinkle Super Star.
 
 AIGC creator. Somewhere between engineering and art.
 
