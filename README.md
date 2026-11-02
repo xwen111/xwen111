@@ -1,4 +1,4 @@
-# Hey, I'm Xin.
+# Hey, I'm Star.
 
 AIGC creator. Somewhere between engineering and art.
 
